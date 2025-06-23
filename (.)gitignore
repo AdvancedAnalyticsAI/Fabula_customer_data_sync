@@ -1,0 +1,7 @@
+# Ignore sensitive credentials and system files
+.env
+credentials/
+*.ovpn
+*.json
+__pycache__/
+*.pyc

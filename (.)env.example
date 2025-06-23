@@ -1,0 +1,10 @@
+# SQL Server DB config
+MSSQL_HOST=172.16.20.2
+MSSQL_PORT=1433
+MSSQL_USER=sa
+MSSQL_PASSWORD=Admin1*
+MSSQL_DB=FabulaCoatings
+
+# Google Sheets
+GOOGLE_SHEET_NAME=Fabula Customer Purchases
+GOOGLE_SHEET_TAB=Customer_Orders
